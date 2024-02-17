@@ -1,0 +1,25 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 1px 1px 1px #e2e8f0;
+  margin: 10px;
+  border-radius: 12px;
+  width: 200px;
+  height: 230px;
+}
+
+.image {
+  height: 150px;
+  width: 200px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.para {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  padding-left: 18px;
+}
